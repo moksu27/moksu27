@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff33,100:cc9900&height=300&section=header&text=수목의%20코드밭🌱&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=45&desc=밀알%20프로젝트&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ff33,100:cc9900&height=300&section=header&text=Sumok's%20Code%20Farm🌱&fontSize=80&animation=fadeIn&fontColor=ffffff&fontAlignY=45&desc=밀알%20프로젝트&descAlignY=60&descSize=16)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoksu27&count_bg=%23CBB239&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
