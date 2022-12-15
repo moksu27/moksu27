@@ -5,6 +5,7 @@
 <div align="center">
 <h1> 🧫 → 💻 → 👨🏻‍⚕️ → 🤕 </h1>           
 사람을 살리는 AI 개발자 <strong>배수목</strong>입니다.
+Hi, I'm Bae Sumok, Life-saving AI Developer
 </div>
 <div align = "center">
 <h2>🔨Tech Stack🔧</h2>
