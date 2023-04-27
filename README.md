@@ -10,6 +10,7 @@ Hi, I'm Bae Sumok, Life-saving AI Developer
 </div>
 <div align = "center">
 <h2>🔨Tech Stack🔧</h2>
+<img src="https://img.shields.io/badge/Pytorch-ff6f00?style=flat&logo=Pytorch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-ffcc33?style=flat&logo=Python&logoColor=3776ab"/>
 <img src="https://img.shields.io/badge/Tableau-333366?style=flat&logo=Tableau&logoColor=e97627"/>
 <img src="https://img.shields.io/badge/scikit-learn-white?style=flat&logo=scikit-learn&logoColor=f7931e"/>
