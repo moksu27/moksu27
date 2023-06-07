@@ -12,9 +12,9 @@ Hi, I'm Bae Sumok, Life-saving AI Developer
 <h2>🔨Tech Stack🔧</h2>
 <img src="https://img.shields.io/badge/Pytorch-ff6f00?style=flat&logo=Pytorch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-ffcc33?style=flat&logo=Python&logoColor=3776ab"/>
-<img src="https://img.shields.io/badge/Tableau-333366?style=flat&logo=Tableau&logoColor=e97627"/>
-<img src="https://img.shields.io/badge/scikit-learn-white?style=flat&logo=scikit-learn&logoColor=f7931e"/>
 <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit-learn-white?style=flat&logo=scikit-learn&logoColor=f7931e"/>
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=ff9900"/>
 </div>
 
